@@ -7,6 +7,7 @@ App Walk-though
 https://imgur.com/a/IhxxY6J
 
 Required Features
+
 [x] 1. App displays an image of a school's logo
 [x] 2. App has three textfields for first, last, and school names
 [x] 3. App has a segmented control that changes student year
